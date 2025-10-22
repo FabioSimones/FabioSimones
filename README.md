@@ -4,7 +4,7 @@
     </h1>    
     <h3>
         Desenvolvedor FullStack | Transformando ideias em soluções robustas.
-    </h3>
+    </h3>   
 </div>
 
 ---
@@ -13,7 +13,7 @@
 
 Sou um apaixonado Desenvolvedor FullStack com foco em entregar soluções completas e escaláveis. Minha jornada no desenvolvimento me permite transitar com facilidade entre o backend, onde utilizo a força do **Java (Spring Boot)** e do **C# (.NET)**, e o frontend, criando interfaces dinâmicas e responsivas com **Angular** e **React**.
 
-Possuo experiência em arquiteturas baseadas em mensageria, utilizando o **RabbitMQ** para garantir a comunicação assíncrona e resiliência entre serviços. Estou sempre em busca de novas tecnologias e melhores práticas, utilizando **Docker** para padronização de ambientes e garantindo a qualidade do código com testes robustos usando **Junit** e **Mockito**.
+Possuo experiência em arquiteturas baseadas em mensageria, utilizando o **RabbitMQ** para garantir a comunicação assíncrona e resiliência entre serviços. Além disso, tenho conhecimento em **Diagrama UML** para modelagem e documentação de sistemas e utilizo **Swagger/OpenAPI** para documentação clara e interativa de APIs. Estou sempre em busca de novas tecnologias e melhores práticas, utilizando **Docker** para padronização de ambientes e garantindo a qualidade do código com testes robustos usando **Junit** e **Mockito**.
 
 **Explore meus repositórios e veja alguns projetos que estou desenvolvendo!**
 
@@ -21,7 +21,7 @@ Possuo experiência em arquiteturas baseadas em mensageria, utilizando o **Rabbi
 
 ## 🛠️ Minhas Stacks & Ferramentas
 
-Abaixo estão as principais tecnologias que utilizo no meu dia a dia.
+Abaixo estão as principais tecnologias e ferramentas que utilizo no meu dia a dia.
 
 <div align="center">
     
@@ -49,7 +49,9 @@ Abaixo estão as principais tecnologias que utilizo no meu dia a dia.
   ![Mockito](https://img.shields.io/badge/Mockito-E03C31?style=for-the-badge&logo=mockito&logoColor=white)
   ![JPA](https://img.shields.io/badge/JPA-white?style=for-the-badge&logoColor=black)
   
-### DevOps & Ferramentas
+### Ferramentas de Design & DevOps
+  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+  ![UML](https://img.shields.io/badge/UML-blue?style=for-the-badge&logo=plantuml&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
