@@ -60,10 +60,6 @@ Abaixo estão as principais tecnologias e ferramentas que utilizo no meu dia a d
 
 ---
 
-## 📈 Estatísticas do GitHub (Dicas de Atrações)
-
-Para deixar seu perfil ainda mais dinâmico, adicione Badges (emblemas) de estatísticas. **Basta copiar o código abaixo e substituir `FabioSimones` pelo seu nome de usuário do GitHub.**
-
 <div align="center">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FabioSimones&layout=compact&hide_border=true&title_color=00FFFF&text_color=FFF&bg_color=0D1117" alt="Linguagens mais usadas por FabioSimones" />    
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FabioSimones&show_icons=true&hide_border=true&count_private=true&title_color=00FFFF&text_color=FFF&bg_color=0D1117&icon_color=00FFFF" alt="Estatísticas do GitHub de FabioSimones" />
